@@ -91,3 +91,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 Thank you for visiting the **Python Mini Projects** repository. I hope these projects serve as helpful examples and educational resources. Whether you're learning Python for the first time or just brushing up on your skills, I hope you find value in these tutorials and mini-projects!
+Happy coding! 🙂
